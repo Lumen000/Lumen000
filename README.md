@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @averageNoB
+- 👋 Hi, I’m @averageCoderWhoCanNotCode
 - 👀 I’m interested in music, coding, maths, logic problems and other nerdy stuff
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on pretty much any python project
