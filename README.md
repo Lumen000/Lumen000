@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Lumen000
-- 👀 I’m interested in music, coding, maths, logic problems and other nerdy stuff
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on pretty much any python project
-- 📫 How to reach me by email: 17owangmcsoxford@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+Hi, I’m @Lumen000
+I'm just an average Asian, and I find myself pretty average, among asians, in the areas that Asians are meant to be good at. 
+Thes include: being insecure, being bad at creative things, having bad eyesight, being paranoid, being bad at spelling and having a rubbish sense of humour.
+If you want to contact me, give up.
 
 <!---
 averageNoB/averageNoB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
